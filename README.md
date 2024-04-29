@@ -1,1 +1,3 @@
-# MovieRecommender
+# BertFlix (MERN-MOVIE)
+
+Fronted (Client)
